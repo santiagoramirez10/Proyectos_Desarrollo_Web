@@ -1,4 +1,4 @@
-<h2>Proyectos en Python</h2>
+<h2>Proyectos en HTML y CSS</h2>
 
 ---
 
