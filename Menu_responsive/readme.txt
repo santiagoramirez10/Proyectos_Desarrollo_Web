@@ -1,1 +1,0 @@
-Código para crear un menú adaptable a cualquier dispositivo.

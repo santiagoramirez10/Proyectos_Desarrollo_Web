@@ -1,1 +1,0 @@
-Este es un proyecto en el que se realiza una página web relacionada con el mundial de fútbol del 2022 utilizando CSS grid.

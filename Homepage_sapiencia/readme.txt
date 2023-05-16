@@ -1,1 +1,0 @@
-Este es un proyecto en el que se realiza un clon de la página de Sapiencia, agencia que me becó para realizar mi curso de fullstack en 2022.

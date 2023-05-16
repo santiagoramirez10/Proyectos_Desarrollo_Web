@@ -1,1 +1,0 @@
-Esta es una primera entrega de un proyecto de página web para un fruver realizado en el curso de fullstack.

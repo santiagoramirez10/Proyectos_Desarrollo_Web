@@ -1,1 +1,0 @@
-Este es un proyecto en que se usa css grid, este proyecto fue realizado en el curso de desarrollador fullstack que realicé en el año 2022.
